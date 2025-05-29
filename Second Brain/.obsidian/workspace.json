@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "86a60b9592f7c56b",
+        "id": "9e014f6f8bdf4259",
         "type": "tabs",
         "children": [
           {
-            "id": "9f187cff7f493c1d",
+            "id": "d3dc9011337244c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "02. Areas/Daily Notes/2025-05-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2025-05-29"
             }
           }
         ]
@@ -49,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"aliases\"]",
+                "query": "유안",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -138,12 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "00. Inbox/오늘 할 일.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "오늘 할 일 의 개요"
             }
           },
           {
@@ -219,11 +234,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5afe498c03810475",
+  "active": "d3dc9011337244c7",
   "lastOpenFiles": [
-    "00. Inbox/찾아볼 것.md",
+    "00. Inbox/오늘 할 일.md",
+    "03. Resources/툴 정리/옵시디언/속성 알아보기.md",
+    "00. Inbox/유안이.md",
+    "02. Areas/Daily Notes/2025-05-29.md",
     "03. Resources/툴 정리/옵시디언/옵시디언 사용법.md",
+    "03. Resources/툴 정리/옵시디언/노트 간의 연결.md",
     "03. Resources/툴 정리/옵시디언/단축키 설정.md",
+    "00. Inbox/찾아볼 것.md",
     "03. Resources/개발 정리/마크다운/마크다운 사용법.md",
     "custom_layout_style.css.md",
     "custom_layout_style.css",
@@ -232,20 +252,17 @@
     "03. Resources/툴 정리/옵시디언/설정 캡쳐/템플릿 설정.png",
     "03. Resources/툴 정리/옵시디언/설정 캡쳐/일일 노트 설정.png",
     "03. Resources/툴 정리/옵시디언/설정 캡쳐/백링크 설정.png",
-    "03. Resources/툴 정리/옵시디언/속성 알아보기.md",
     "03. Resources/툴 정리/옵시디언/설정 캡쳐/편집 설정 1.png",
     "03. Resources/툴 정리/옵시디언/설정 캡쳐",
     "00. Inbox/무제",
     "05. Atachment/무제",
     "스크린샷 2025-05-29 오후 4.12.51.png",
-    "02. Areas/Daily Notes/2025-05-29.md",
     "03. Resources/템플릿/데일리 노트 템플릿.md",
     "00. Inbox/김경우의 국힘 지지 마인드 맵.canvas",
     "00. Inbox/2025-05-29.md",
     "00. Inbox/안녕.md",
     "03. Resources/템플릿",
     "02. Areas/Daily Notes",
-    "03. Resources/툴 정리/옵시디언/노트 간의 연결.md",
     "03. Resources/툴 정리/옵시디언/설정 캡쳐/파일 설정.png",
     "03. Resources/툴 정리/옵시디언/설정 캡쳐/편집 설정 2.png",
     "05. Atachment",
