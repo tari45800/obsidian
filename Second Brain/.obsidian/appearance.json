@@ -1,0 +1,7 @@
+{
+  "cssTheme": "Atom",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom_layout_style"
+  ]
+}

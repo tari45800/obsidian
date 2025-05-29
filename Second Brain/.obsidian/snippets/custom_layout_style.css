@@ -1,0 +1,18 @@
+/* 구분선 간격 줄이기 */
+hr {
+  margin-top: 4px !important;
+  margin-bottom: 4px !important;
+}
+
+/* 헤딩 간 간격 조절 - 위는 넉넉, 아래는 컴팩트 */
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3 {
+  margin-top: 28px;  
+  margin-bottom: 10px; 
+}
+
+/* 본문 line-height 줄이기 */
+.markdown-preview-view p {
+  line-height: 1.5 !important;
+}

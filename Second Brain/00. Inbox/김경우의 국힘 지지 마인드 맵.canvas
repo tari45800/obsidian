@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"e3869156a3a9c041","type":"text","text":"김경우","x":116,"y":-72,"width":250,"height":60},
+		{"id":"ff694d05e7494a87","type":"text","text":"오른 우","x":460,"y":-72,"width":250,"height":60},
+		{"id":"4ffb65877199a02e","type":"text","text":"우파","x":800,"y":-72,"width":250,"height":60},
+		{"id":"37b7f79f230a48db","type":"text","text":"국민의 힘 지지","x":1180,"y":-72,"width":250,"height":60},
+		{"id":"a381ff0b08147b85","type":"text","text":"윤석열 무죄","x":1540,"y":-72,"width":250,"height":60},
+		{"id":"1b4dfc2eddc80218","type":"text","text":"밭갈 경","x":480,"y":320,"width":250,"height":60},
+		{"id":"ed83c127396f83d9","type":"text","text":"김문수","x":1050,"y":80,"width":250,"height":60},
+		{"id":"d31d9020564fac60","type":"text","text":"김해 김\n","x":585,"y":80,"width":250,"height":60},
+		{"id":"8eeb2fe8c8c09f3a","type":"text","text":"경기도 지사","x":1110,"y":320,"width":250,"height":60},
+		{"id":"10093c320c1194e6","type":"text","text":"경기도","x":780,"y":320,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"69a509921bb351d1","fromNode":"4ffb65877199a02e","fromSide":"right","toNode":"37b7f79f230a48db","toSide":"left"},
+		{"id":"87ffe0b5b017b704","fromNode":"37b7f79f230a48db","fromSide":"right","toNode":"a381ff0b08147b85","toSide":"left"},
+		{"id":"624637f12894ae28","fromNode":"ed83c127396f83d9","fromSide":"right","toNode":"37b7f79f230a48db","toSide":"bottom"},
+		{"id":"a564f36cfd6d2d02","fromNode":"d31d9020564fac60","fromSide":"right","toNode":"ed83c127396f83d9","toSide":"left"},
+		{"id":"2cc99da88305ccc4","fromNode":"e3869156a3a9c041","fromSide":"bottom","toNode":"1b4dfc2eddc80218","toSide":"left"},
+		{"id":"3231fb397fd133e1","fromNode":"e3869156a3a9c041","fromSide":"right","toNode":"ff694d05e7494a87","toSide":"left"},
+		{"id":"122823962411bf04","fromNode":"ff694d05e7494a87","fromSide":"right","toNode":"4ffb65877199a02e","toSide":"left"},
+		{"id":"d7573435286ec5cd","fromNode":"1b4dfc2eddc80218","fromSide":"right","toNode":"10093c320c1194e6","toSide":"left"},
+		{"id":"67bd68f4b6d0fbb6","fromNode":"e3869156a3a9c041","fromSide":"bottom","toNode":"d31d9020564fac60","toSide":"left"},
+		{"id":"8fe7f23fc951010e","fromNode":"10093c320c1194e6","fromSide":"right","toNode":"8eeb2fe8c8c09f3a","toSide":"left"},
+		{"id":"11f14dda32cd945f","fromNode":"8eeb2fe8c8c09f3a","fromSide":"top","toNode":"ed83c127396f83d9","toSide":"bottom"}
+	]
+}

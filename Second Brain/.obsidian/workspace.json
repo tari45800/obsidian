@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "ada819c1c34403df",
+    "type": "split",
+    "children": [
+      {
+        "id": "86a60b9592f7c56b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f187cff7f493c1d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ea29e7d222645b33",
+    "type": "split",
+    "children": [
+      {
+        "id": "c8cf41e65b282996",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "669224c949e13fc8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "3676ab9344738bed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"aliases\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "b63aa4ce3f416e8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "4aa6829faf2a92fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8081c243a637861",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f8f32c3f0752649",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Resources/개발 정리/마크다운/마크다운 사용법.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "마크다운 사용법 의 백링크"
+            }
+          },
+          {
+            "id": "89e098e5d8fe9379",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Resources/개발 정리/마크다운/마크다운 사용법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "마크다운 사용법 의 나가는 링크"
+            }
+          },
+          {
+            "id": "ea88ce281a2f7269",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "995974dbed130a54",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          },
+          {
+            "id": "df9641df76004ec5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "2e8c174332cb3e16",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "cf0e50d28ad4bf57",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      },
+      {
+        "id": "f23c0178a30c292e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5afe498c03810475",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 327.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "workspaces:작업 공간 레이아웃 관리": false,
+      "obsidian-kanban:새 보드 만들기": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5afe498c03810475",
+  "lastOpenFiles": [
+    "00. Inbox/찾아볼 것.md",
+    "03. Resources/툴 정리/옵시디언/옵시디언 사용법.md",
+    "03. Resources/툴 정리/옵시디언/단축키 설정.md",
+    "03. Resources/개발 정리/마크다운/마크다운 사용법.md",
+    "custom_layout_style.css.md",
+    "custom_layout_style.css",
+    "00. Inbox/찾아볼 것 복사본 2.md",
+    "00. Inbox/찾아볼 것 복사본.md",
+    "03. Resources/툴 정리/옵시디언/설정 캡쳐/템플릿 설정.png",
+    "03. Resources/툴 정리/옵시디언/설정 캡쳐/일일 노트 설정.png",
+    "03. Resources/툴 정리/옵시디언/설정 캡쳐/백링크 설정.png",
+    "03. Resources/툴 정리/옵시디언/속성 알아보기.md",
+    "03. Resources/툴 정리/옵시디언/설정 캡쳐/편집 설정 1.png",
+    "03. Resources/툴 정리/옵시디언/설정 캡쳐",
+    "00. Inbox/무제",
+    "05. Atachment/무제",
+    "스크린샷 2025-05-29 오후 4.12.51.png",
+    "02. Areas/Daily Notes/2025-05-29.md",
+    "03. Resources/템플릿/데일리 노트 템플릿.md",
+    "00. Inbox/김경우의 국힘 지지 마인드 맵.canvas",
+    "00. Inbox/2025-05-29.md",
+    "00. Inbox/안녕.md",
+    "03. Resources/템플릿",
+    "02. Areas/Daily Notes",
+    "03. Resources/툴 정리/옵시디언/노트 간의 연결.md",
+    "03. Resources/툴 정리/옵시디언/설정 캡쳐/파일 설정.png",
+    "03. Resources/툴 정리/옵시디언/설정 캡쳐/편집 설정 2.png",
+    "05. Atachment",
+    "00. Inbox",
+    "노트간의 연결.md",
+    "2025-05-29.md",
+    "체크리스트.md",
+    "03. Resources/툴 정리/옵시디언",
+    "Resources/툴 정리/옵시디언 사용법",
+    "Resources/무제.canvas",
+    "환영합니다!.md",
+    "create a link.md"
+  ]
+}
