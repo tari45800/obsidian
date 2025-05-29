@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. Areas/Daily Notes/2025-05-29.md",
+                "file": "00. Inbox/오늘 할 일.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-05-29"
+              "title": "오늘 할 일"
             }
           }
         ]
@@ -236,14 +236,14 @@
   },
   "active": "d3dc9011337244c7",
   "lastOpenFiles": [
+    "00. Inbox/찾아볼 것.md",
+    "02. Areas/Daily Notes/2025-05-29.md",
     "00. Inbox/오늘 할 일.md",
     "03. Resources/툴 정리/옵시디언/속성 알아보기.md",
     "00. Inbox/유안이.md",
-    "02. Areas/Daily Notes/2025-05-29.md",
     "03. Resources/툴 정리/옵시디언/옵시디언 사용법.md",
     "03. Resources/툴 정리/옵시디언/노트 간의 연결.md",
     "03. Resources/툴 정리/옵시디언/단축키 설정.md",
-    "00. Inbox/찾아볼 것.md",
     "03. Resources/개발 정리/마크다운/마크다운 사용법.md",
     "custom_layout_style.css.md",
     "custom_layout_style.css",
