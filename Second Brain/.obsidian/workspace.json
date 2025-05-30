@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "9e014f6f8bdf4259",
+        "id": "7f87a75f82be15d9",
         "type": "tabs",
         "children": [
           {
-            "id": "d3dc9011337244c7",
+            "id": "3a75d16c08c7b2a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00. Inbox/오늘 할 일.md",
-                "mode": "source",
+                "file": "03. Resources(정보)/방법론/메모법/Zettelkasten.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "오늘 할 일"
+              "title": "Zettelkasten"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "유안",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,10 +206,24 @@
             "id": "5afe498c03810475",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "type": "markdown",
+              "state": {
+                "file": "02. Areas(장기)/Todo List/Daily/2025-05-30.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-30"
             }
           }
         ]
@@ -234,46 +248,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3dc9011337244c7",
+  "active": "5afe498c03810475",
   "lastOpenFiles": [
-    "00. Inbox/찾아볼 것.md",
+    "03. Resources(정보)/방법론/메모법/Zettelkasten.md",
+    "기억의 원리.md",
+    "03. Resources(정보)/방법론/메모법/PARA.md",
+    "03. Resources(정보)/방법론/무제.md",
+    "03. Resources(정보)/방법론/메모법",
+    "02. Areas(장기)/Todo List/Daily/2025-05-30.md",
+    "03. Resources(정보)/방법론",
+    "02. Areas(장기)/Todo List/Someday/언젠가 할 일.md",
+    "00. Inbox(새파일)/찾아볼 것.md",
+    "00. Inbox(새파일)/오늘 할 일.md",
+    "05. Zettelkasten(글쓰기)/03. Permanent Note(영구 노트)",
+    "05. Zettelkasten(글쓰기)/02. Literature Note(문헌 노트)",
+    "05. Zettelkasten(글쓰기)/01. Fleeting Note(임시 노트)",
+    "02. Areas/무제.md",
+    "05. Zettelkasten(글쓰기)",
+    "02. Areas(장기)/Todo List/Someday",
+    "03. Resources(정보)/템플릿/Daily Todo List.md",
+    "02. Areas/Todo List/2025-05-30.md",
+    "02. Areas(장기)/Todo List/Daily",
+    "02. Areas/Todo List/무제.md",
+    "03. Resources/템플릿/데일리 노트 템플릿.md",
+    "00. Inbox(새파일)/김경우의 국힘 지지 마인드 맵.canvas",
+    "02. Areas(장기)/Todo List",
+    "03. Resources(정보)/툴 정리/옵시디언/노트 간의 연결.md",
     "02. Areas/Daily Notes/2025-05-29.md",
-    "00. Inbox/오늘 할 일.md",
-    "03. Resources/툴 정리/옵시디언/속성 알아보기.md",
+    "02. Areas/Daily Notes/2025-05-30.md",
+    "03. Resources(정보)/툴 정리/옵시디언/속성 알아보기.md",
     "00. Inbox/유안이.md",
-    "03. Resources/툴 정리/옵시디언/옵시디언 사용법.md",
-    "03. Resources/툴 정리/옵시디언/노트 간의 연결.md",
-    "03. Resources/툴 정리/옵시디언/단축키 설정.md",
-    "03. Resources/개발 정리/마크다운/마크다운 사용법.md",
+    "03. Resources(정보)/툴 정리/옵시디언/옵시디언 사용법.md",
+    "03. Resources(정보)/툴 정리/옵시디언/단축키 설정.md",
+    "03. Resources(정보)/개발 정리/마크다운/마크다운 사용법.md",
     "custom_layout_style.css.md",
     "custom_layout_style.css",
     "00. Inbox/찾아볼 것 복사본 2.md",
     "00. Inbox/찾아볼 것 복사본.md",
-    "03. Resources/툴 정리/옵시디언/설정 캡쳐/템플릿 설정.png",
-    "03. Resources/툴 정리/옵시디언/설정 캡쳐/일일 노트 설정.png",
-    "03. Resources/툴 정리/옵시디언/설정 캡쳐/백링크 설정.png",
-    "03. Resources/툴 정리/옵시디언/설정 캡쳐/편집 설정 1.png",
-    "03. Resources/툴 정리/옵시디언/설정 캡쳐",
-    "00. Inbox/무제",
-    "05. Atachment/무제",
+    "03. Resources(정보)/툴 정리/옵시디언/설정 캡쳐/템플릿 설정.png",
+    "03. Resources(정보)/툴 정리/옵시디언/설정 캡쳐/일일 노트 설정.png",
+    "03. Resources(정보)/툴 정리/옵시디언/설정 캡쳐/백링크 설정.png",
+    "03. Resources(정보)/툴 정리/옵시디언/설정 캡쳐/편집 설정 1.png",
     "스크린샷 2025-05-29 오후 4.12.51.png",
-    "03. Resources/템플릿/데일리 노트 템플릿.md",
-    "00. Inbox/김경우의 국힘 지지 마인드 맵.canvas",
     "00. Inbox/2025-05-29.md",
     "00. Inbox/안녕.md",
-    "03. Resources/템플릿",
-    "02. Areas/Daily Notes",
-    "03. Resources/툴 정리/옵시디언/설정 캡쳐/파일 설정.png",
-    "03. Resources/툴 정리/옵시디언/설정 캡쳐/편집 설정 2.png",
-    "05. Atachment",
-    "00. Inbox",
-    "노트간의 연결.md",
-    "2025-05-29.md",
-    "체크리스트.md",
-    "03. Resources/툴 정리/옵시디언",
-    "Resources/툴 정리/옵시디언 사용법",
-    "Resources/무제.canvas",
-    "환영합니다!.md",
-    "create a link.md"
+    "03. Resources(정보)/툴 정리/옵시디언/설정 캡쳐/파일 설정.png",
+    "03. Resources(정보)/툴 정리/옵시디언/설정 캡쳐/편집 설정 2.png",
+    "Resources/무제.canvas"
   ]
 }
