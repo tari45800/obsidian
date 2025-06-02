@@ -23,10 +23,9 @@ path includes 02. Areas/Todo List
 ```tasks
 not done
 no due date
-path includes 02. Areas/Todo List
+path includes 02. Areas/todo_list
 ```
  
 ---
 🗓 작성일: <% tp.date.now("YYYY-MM-DD") %>  
-🛠 수정일: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 #todo

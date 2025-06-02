@@ -1,0 +1,35 @@
+{
+	"nodes":[
+		{"id":"4a873ee5b3840294","type":"group","x":1000,"y":-200,"width":4383,"height":1386,"color":"1","label":"나는 무엇인가"},
+		{"id":"e191078bb599d8ba","type":"text","text":"# (시작) 나는 어떻게 살아아 하는가","x":-120,"y":31,"width":414,"height":50},
+		{"id":"23b80f9e0e169c0e","type":"text","text":"# 세상은 어디로 부터 왔는가","x":2323,"y":31,"width":340,"height":50},
+		{"id":"4c849e9bc2d7f24e","type":"text","text":"# 시작에 대한 종교의 입장\n- 신이 이유가 되고\n- 신은 스스로 존재한다.\n- 우리는 신으로부터 창조되었다.","x":2863,"y":816,"width":460,"height":150},
+		{"id":"cb6de3604bcb23b3","type":"text","text":"# 나는 답이 필요하다.\n나는 어떻게 살아야 하느냐를 고민하고 있다.\n따라서 명확한 답이 필요하다.\n관점을 분류하기 위한 기준이 필요하다.","x":3763,"y":-26,"width":460,"height":165},
+		{"id":"49474a10adc8260f","type":"text","text":"# 시작에 대한 과학과 철학의 입장\n- 알 수 없고 설명할 수 없다.\n- 현실에 집중","x":4883,"y":826,"width":480,"height":160},
+		{"id":"a4e68a205976e366","type":"text","text":"# (결론) 신의 존재\n- 나는 삶과 존재의 근본에 대한 질문에 답이 필요했고, 그 답은 종교가 풀어줬다.\n- 우리는 신으로부터 창조 되었다.","x":1020,"y":816,"width":428,"height":160},
+		{"id":"065f549e66567eb6","type":"text","text":"# 나는 무엇인가","x":1123,"y":31,"width":222,"height":56},
+		{"id":"04a73709a219ac99","type":"text","text":"# 나는 어디로 부터 왔는가\n- 나는 부모로 부터\n- 부모는 부모의 부모로 부터\n- 그럼 그 끝에는 뭐가 있는가","x":1603,"y":-19,"width":414,"height":155},
+		{"id":"837bf28f704474cb","type":"text","text":"# 종교를 삶의 기준으로 삼기 위한 근거\n\n### 세상의 시작에 대한 답\n- 나는 삶과 존재의 근본에 대한 질문에 답이 필요했고, \n  철학과 과학이 멈춘자리에서 종교는 답을 제공했다.\n\n### 논리 정합성\n- 신의 존재는 논리를 합당하게 만든다.\n\n### 상위 포괄 구조\n- 과학과 철학을 포괄하는 상위 개념이다.\n\n### 정당성\n- 보편성과 역사성이 있다.\n","x":1863,"y":626,"width":520,"height":540},
+		{"id":"e3da746b6e7229de","type":"text","text":"# (핵심) 삶의 기준\n- 삶의 기준은 내가 세우는 것\n- 삶의 기준은 세워져 있는 것\n\n나는 어떻게 살아야 하느냐에 대한 기준을 세우려고 한다.\n그 기준은 내가 세우면 되는지 아니면 이미 세워져 있는지 고민한다.\n그것에 대한 기준은 과학과 종교가 대척점에 있다고 생각한다.","x":4883,"y":-58,"width":480,"height":230},
+		{"id":"f873b2713f39a7f2","type":"text","text":"# 시작에 대한 사람들의 관점\n- 관점은 답이 아닌 도구다.\n\n### 과학적 관점\n- 세상은 자연 법칙에 의해 저절로 생김\n### 종교적 관점\n- 초월족 존제가 세상을 창조함\n### 철학적 관점\n- 그것은  설명할 수 없고 세상이 왜  생겼는가 보다 그게 뭐냐를 고민","x":2863,"y":-180,"width":460,"height":472}
+	],
+	"edges":[
+		{"id":"ac6c53779831185a","fromNode":"e191078bb599d8ba","fromSide":"right","toNode":"065f549e66567eb6","toSide":"left","label":"본질에 접근"},
+		{"id":"ee09024c457814c1","fromNode":"065f549e66567eb6","fromSide":"right","toNode":"04a73709a219ac99","toSide":"left","label":"개인의 기원"},
+		{"id":"44e3894218b3c803","fromNode":"04a73709a219ac99","fromSide":"right","toNode":"23b80f9e0e169c0e","toSide":"left","label":"존재의 기원"},
+		{"id":"77c8e658c1a34685","fromNode":"23b80f9e0e169c0e","fromSide":"right","toNode":"f873b2713f39a7f2","toSide":"left"},
+		{"id":"288a8b7a197fb8bb","fromNode":"cb6de3604bcb23b3","fromSide":"right","toNode":"e3da746b6e7229de","toSide":"left","label":"나는 어떤 기준을 가질 것 인가"},
+		{"id":"a049aacb92cb3ba1","fromNode":"f873b2713f39a7f2","fromSide":"right","toNode":"cb6de3604bcb23b3","toSide":"left","label":"하지만 답을 찾아야 한다."},
+		{"id":"a35983c6b62234ee","fromNode":"f873b2713f39a7f2","fromSide":"bottom","toNode":"4c849e9bc2d7f24e","toSide":"top","label":"종교의 입장"},
+		{"id":"907c53b505da4c6f","fromNode":"f873b2713f39a7f2","fromSide":"bottom","toNode":"49474a10adc8260f","toSide":"left","label":"과학과 철학의 입장"},
+		{"id":"c7fd78ed9a90490a","fromNode":"49474a10adc8260f","fromSide":"left","toNode":"4c849e9bc2d7f24e","toSide":"right","label":"그러면 종교는?"},
+		{"id":"48aa0aa72bf688cf","fromNode":"e3da746b6e7229de","fromSide":"bottom","toNode":"49474a10adc8260f","toSide":"top","label":"현실 적인 시작은?"},
+		{"id":"c2342f01140dd91d","fromNode":"4c849e9bc2d7f24e","fromSide":"left","toNode":"837bf28f704474cb","toSide":"right","label":"선택에 근거"},
+		{"id":"a3d687941419dd70","fromNode":"837bf28f704474cb","fromSide":"left","toNode":"a4e68a205976e366","toSide":"right","label":"시작에 대한 결론"},
+		{"id":"0ea6be27e900ecfb","fromNode":"04a73709a219ac99","fromSide":"bottom","toNode":"4c849e9bc2d7f24e","toSide":"top","label":"명쾌한 답"},
+		{"id":"a266d52e965c7fe5","fromNode":"23b80f9e0e169c0e","fromSide":"bottom","toNode":"4c849e9bc2d7f24e","toSide":"top","label":"명쾌한 답"},
+		{"id":"c63d06fbcf572220","fromNode":"cb6de3604bcb23b3","fromSide":"bottom","toNode":"4c849e9bc2d7f24e","toSide":"top"},
+		{"id":"d9e22f6834a36f97","fromNode":"04a73709a219ac99","fromSide":"bottom","toNode":"a4e68a205976e366","toSide":"top"},
+		{"id":"c5b5d2a184ef2f63","fromNode":"065f549e66567eb6","fromSide":"bottom","toNode":"a4e68a205976e366","toSide":"top"}
+	]
+}

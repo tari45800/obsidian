@@ -2,6 +2,6 @@
   "snapToObjects": true,
   "snapToGrid": true,
   "newFileLocation": "folder",
-  "newFileFolderPath": "00. Inbox",
+  "newFileFolderPath": "00. inbox",
   "defaultModDragBehavior": "card"
 }
