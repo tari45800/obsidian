@@ -4,11 +4,11 @@
 ```tasks
 not done
 due before today
-path includes 02. Areas/Todo List
+path includes 02. areas/todo_list
 ```
 
 ##### Today
-- [ ] 할 일 📅 2025-05-30 
+- [ ] 할 일 📅 
 
 
 # ✏️ Advanced List
@@ -17,13 +17,13 @@ path includes 02. Areas/Todo List
 ```tasks
 not done
 due tomorrow
-path includes 02. Areas/Todo List
+path includes 02. areas/todo_list
 ```
 ##### Someday
 ```tasks
 not done
 no due date
-path includes 02. Areas/todo_list
+path includes 02. areas/todo_list
 ```
  
 ---

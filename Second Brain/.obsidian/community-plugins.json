@@ -7,5 +7,9 @@
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "editing-toolbar",
+  "recent-files-obsidian",
+  "file-explorer-note-count",
+  "folder-note-plugin"
 ]

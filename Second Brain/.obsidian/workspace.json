@@ -4,24 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "67b616791092eb9f",
+        "id": "90c01f8950af9b88",
         "type": "tabs",
         "children": [
           {
-            "id": "ba659bd5ff8421d2",
+            "id": "5374497f31ffed28",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정 1.canvas",
-                "viewState": {
-                  "x": -4213.939950027765,
-                  "y": -3178.41369601388,
-                  "zoom": -1.2037036558728262
+                "file": "02. areas/육아/부모/부모란 무엇인가.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "인생의 방향 적립 과정 1"
+              "icon": "lucide-file",
+              "title": "부모란 무엇인가"
             }
           }
         ]
@@ -76,12 +83,22 @@
               "icon": "lucide-bookmark",
               "title": "북마크"
             }
+          },
+          {
+            "id": "2b748be9aa725046",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 341.5004348754883
   },
   "right": {
     "id": "4aa6829faf2a92fa",
@@ -145,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00. Inbox/오늘 할 일.md",
+                "file": "02. areas/육아/부모/부모란 무엇인가.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "오늘 할 일 의 개요"
+              "title": "부모란 무엇인가 의 개요"
             }
           },
           {
@@ -218,12 +235,37 @@
               "icon": "lucide-file",
               "title": "2025-05-30"
             }
+          },
+          {
+            "id": "77bbe1d73510e97a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03. Resources/template/writing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "writing"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 451.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,57 +283,35 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "floating": {
-    "id": "4c23f69d98ff189f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "4defefda36dd6a9f",
-        "type": "window",
-        "children": [
-          {
-            "id": "470229d55a5bca58",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "0df0be2e710a7de1",
-                "type": "leaf",
-                "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "02. areas/인생_방향/인생_2막/무제.canvas",
-                    "viewState": {
-                      "x": 2120.3337724249527,
-                      "y": -2126.2257600536077,
-                      "zoom": -1.277713798088536
-                    }
-                  },
-                  "icon": "lucide-layout-dashboard",
-                  "title": "무제"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2690,
-        "y": 82,
-        "width": 1471,
-        "height": 942,
-        "maximize": false,
-        "zoom": 2
-      }
-    ]
-  },
-  "active": "ba659bd5ff8421d2",
+  "active": "cf0e50d28ad4bf57",
   "lastOpenFiles": [
-    "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정.canvas",
+    "02. areas/육아/자녀/미디어 노출.md",
+    "02. areas/육아/부모/부모란 무엇인가.md",
+    "02. areas/육아/부모",
+    "02. areas/todo_list/daily/2025-06-04.md",
+    "02. areas/육아/자녀",
     "02. areas/todo_list/daily/2025-06-02.md",
-    "02. areas/todo_list/someday/언젠가 할 일.md",
-    "03. Resources/template/daily_todo_list.md",
     "02. areas/todo_list/daily/2025-05-30.md",
+    "02. areas/todo_list/someday/언젠가 할 일.md",
+    "02. areas/육아",
+    "01. projects/패밀리카 선정/선정 기준에 맞는 차량.md",
+    "01. projects/패밀리카 선정/선정 조건, 기준.md",
+    "99. Atachment/스크린샷 2025-06-04 오후 3.49.01.png",
+    "99. Atachment/스크린샷 2025-06-04 오후 3.48.43.png",
+    "99. Atachment/스크린샷 2025-06-04 오후 3.25.22.png",
+    "99. Atachment/스크린샷 2025-06-04 오후 3.24.19.png",
+    "99. Atachment/스크린샷 2025-06-04 오후 3.23.30.png",
+    "01. projects/패밀리카 선정",
+    "03. Resources/template/writing.md",
+    "99. Atachment/스크린샷 2025-06-04 오전 10.06.25.png",
+    "99. Atachment",
+    "01. projects/패밀리카 선정/무제",
+    "01. projects/패밀리카 선정",
+    "00. inbox/무제",
+    "03. Resources/template/daily_todo_list.md",
     "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정 1.canvas",
     "02. areas/인생_방향/인생_2막/무제.canvas",
+    "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정.canvas",
     "02. areas/인생_방향/인생_2막/질문들.md",
     "문현 밥집 리스트.md",
     "05. Zettelkasten/01. Fleeting Note(임시 노트)/시적 표현.md",
@@ -300,38 +320,22 @@
     "02. areas/인생_방향/무제.md",
     "02. areas/인생_방향/인생_2막",
     "02. areas/인생_방향/인생_1막",
-    "02. areas/인생_방향",
     "02. areas/무제.md",
-    "03. Resources/template/writing.md",
     "03. Resources/방법론/메모법/Zettelkasten.md",
     "기억의 원리.md",
     "03. Resources/방법론/메모법/PARA.md",
     "03. Resources(정보)/방법론/무제.md",
-    "03. Resources/방법론/메모법",
-    "03. Resources/방법론",
     "00. Inbox(새파일)/찾아볼 것.md",
     "00. Inbox(새파일)/오늘 할 일.md",
-    "05. Zettelkasten/03. Permanent Note(영구 노트)",
-    "05. Zettelkasten/02. Literature Note(문헌 노트)",
-    "05. Zettelkasten/01. Fleeting Note(임시 노트)",
     "02. Areas/무제.md",
-    "05. Zettelkasten",
-    "02. areas/todo_list/someday",
     "02. Areas/Todo List/2025-05-30.md",
     "02. Areas/Todo List/무제.md",
     "03. Resources/템플릿/데일리 노트 템플릿.md",
     "00. inbox/김경우의 국힘 지지 마인드 맵.canvas",
-    "03. Resources/툴 정리/obsidian/노트 간의 연결.md",
-    "02. Areas/Daily Notes/2025-05-29.md",
-    "02. Areas/Daily Notes/2025-05-30.md",
-    "03. Resources/툴 정리/obsidian/속성 알아보기.md",
     "03. Resources/툴 정리/obsidian/설정 캡쳐/템플릿 설정.png",
     "03. Resources/툴 정리/obsidian/설정 캡쳐/일일 노트 설정.png",
     "03. Resources/툴 정리/obsidian/설정 캡쳐/백링크 설정.png",
     "03. Resources/툴 정리/obsidian/설정 캡쳐/편집 설정 1.png",
-    "스크린샷 2025-05-29 오후 4.12.51.png",
-    "03. Resources/툴 정리/obsidian/설정 캡쳐/파일 설정.png",
-    "03. Resources/툴 정리/obsidian/설정 캡쳐/편집 설정 2.png",
     "Resources/무제.canvas"
   ]
 }
