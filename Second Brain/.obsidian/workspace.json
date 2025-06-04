@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02. areas/육아/부모/부모란 무엇인가.md",
+                "file": "01. projects/패밀리카 선정/선정 기준에 맞는 차량.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "부모란 무엇인가"
+              "title": "선정 기준에 맞는 차량"
             }
           }
         ]
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. areas/육아/부모/부모란 무엇인가.md",
+                "file": "01. projects/패밀리카 선정/선정 기준에 맞는 차량.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "부모란 무엇인가 의 개요"
+              "title": "선정 기준에 맞는 차량 의 개요"
             }
           },
           {
@@ -283,10 +283,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "669224c949e13fc8",
+  "active": "5374497f31ffed28",
   "lastOpenFiles": [
-    "문현 밥집 리스트.md",
+    "01. projects/패밀리카 선정/선정 조건, 기준.md",
     "02. areas/육아/부모/부모란 무엇인가.md",
+    "문현 밥집 리스트.md",
     "02. areas/육아/자녀/미디어 노출.md",
     "02. areas/육아/부모",
     "02. areas/todo_list/daily/2025-06-04.md",
@@ -296,7 +297,6 @@
     "02. areas/todo_list/someday/언젠가 할 일.md",
     "02. areas/육아",
     "01. projects/패밀리카 선정/선정 기준에 맞는 차량.md",
-    "01. projects/패밀리카 선정/선정 조건, 기준.md",
     "99. Atachment/스크린샷 2025-06-04 오후 3.49.01.png",
     "99. Atachment/스크린샷 2025-06-04 오후 3.48.43.png",
     "99. Atachment/스크린샷 2025-06-04 오후 3.25.22.png",
