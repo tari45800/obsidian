@@ -4,17 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "bcbd33ddfde8924d",
+        "id": "e00e23a548901bb0",
         "type": "tabs",
         "children": [
           {
-            "id": "8b61df8f45c0892c",
+            "id": "5baa3125e129b074",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "05. Zettelkasten/03. Permanent Note(영구 노트)/영구.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "영구"
             }
           }
         ]
@@ -148,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정 1.canvas",
+                "file": "05. Zettelkasten/03. Permanent Note(영구 노트)/영구.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "인생의 방향 적립 과정 1 의 개요"
+              "title": "영구 의 개요"
             }
           },
           {
@@ -199,30 +213,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5afe498c03810475",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02. areas/todo_list/daily/2025-05-30.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-05-30"
-            }
-          },
-          {
             "id": "77bbe1d73510e97a",
             "type": "leaf",
             "state": {
@@ -244,6 +234,30 @@
               },
               "icon": "lucide-file",
               "title": "writing"
+            }
+          },
+          {
+            "id": "9a57a07fe4474a4b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02. areas/육아/부모/아빠란 무엇인가.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "아빠란 무엇인가"
             }
           }
         ],
@@ -269,56 +283,57 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8b61df8f45c0892c",
+  "active": "cf0e50d28ad4bf57",
   "lastOpenFiles": [
+    "05. Zettelkasten/02. Literature Note(문헌 노트)/문헌.md",
+    "05. Zettelkasten/03. Permanent Note(영구 노트)/영구.md",
+    "01. projects/편지/아빠 편지.md",
+    "01. projects/패밀리카 선정/선정 기준에 맞는 차량.md",
+    "01. projects/패밀리카 선정/선정 조건, 기준.md",
+    "02. areas/todo_list/daily/2025-06-05.md",
+    "02. areas/todo_list/daily/2025-06-04.md",
+    "02. areas/todo_list/someday/언젠가 할 일.md",
+    "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정 1.canvas",
+    "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정.canvas",
+    "02. areas/육아/부모/아빠란 무엇인가.md",
+    "03. Resources/template/writing.md",
+    "02. areas/todo_list/daily/2025-05-30.md",
+    "00. inbox/이름 없는 보드.md",
+    "02. areas/육아/육아 용품/카시트, 유모차.md",
+    "02. areas/육아/육아 용품/무제 1",
+    "02. areas/육아/육아 용품/무제",
+    "02. areas/육아/육아 용품",
+    "02. areas/운동/운동 목표(2025).md",
+    "02. areas/운동",
+    "04. Archives/이름/이름.md",
+    "04. Archives/이사/특약.md",
+    "04. Archives/이름/무제",
+    "04. Archives/이름",
+    "04. Archives/이사/입주 청소.md",
+    "01. projects/기억법/숫자 기억법.md",
+    "01. projects/패밀리카 선정/니로.md",
+    "01. projects/기억법/무제",
+    "01. projects/기억법",
+    "02. areas/돈/돈 관리/특수 지출,수입 내역 정리/2025 이사, 출산 가계부(4,5,6월).md",
+    "02. areas/돈/돈 관리/특수 지출,수입 내역 정리",
+    "02. areas/돈/보험/현재 가입 태아보험/현재 가입 태아보험.md",
+    "02. areas/돈/보험/현재 가입 태아보험/태아보험 설계.md",
+    "99. Atachment/20241010-120216.pdf",
+    "02. areas/돈/보험/현재 가입 태아보험/태아보험이란.md",
+    "02. areas/돈/보험/태아보험/태아보험.md",
     "02. areas/돈/상품권/영화 쿠폰.md",
     "99. Atachment/스크린샷 2025-06-05 오전 10.05.24.png",
     "99. Atachment/스크린샷 2025-06-05 오전 10.04.55.png",
     "99. Atachment/스크린샷 2025-06-05 오전 10.04.12.png",
     "99. Atachment/스크린샷 2025-06-05 오전 10.03.55.png",
-    "02. areas/돈/상품권",
-    "02. areas/무제",
     "02. areas/출산/출산 후 아빠가 할 일(2025).md",
-    "04. Archives/집/월드파크 4차/관리 사무소 전화번호.md",
-    "04. Archives/집/월드파크 4차/집 실측 사이즈.md",
-    "02. areas/돈/돈 관리/월급 분배.md",
-    "02. areas/출산",
     "99. Atachment/스크린샷 2025-06-05 오전 9.53.21.png",
-    "02. areas/돈/은행 관련 자료/이제윤 급여 명세서/2025.md",
-    "02. areas/돈/돈 관리",
     "99. Atachment/4월.png",
     "99. Atachment/3월.png",
     "99. Atachment/2월.png",
     "99. Atachment/1월.png",
-    "02. areas/돈/은행 관련 자료/이제윤 급여 명세서/2024.md",
     "99. Atachment/12월.png",
-    "02. areas/돈/은행 관련 자료/이제윤 급여 명세서.md",
-    "02. areas/돈/은행 관련 자료/이제윤 급여 명세서",
-    "02. areas/돈/무제.md",
-    "02. areas/돈/은행 관련 자료",
-    "02. areas/돈",
-    "03. Resources/template/writing.md",
-    "04. Archives/이사/식세기 이전.md",
-    "04. Archives/집/월드파크 4차",
-    "04. Archives/집",
-    "04. Archives/이사/입주 청소.md",
-    "02. areas/todo_list/daily/2025-06-05.md",
-    "04. Archives/이사",
-    "02. areas/todo_list/daily/2025-06-04.md",
-    "02. areas/todo_list/someday/언젠가 할 일.md",
-    "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정 1.canvas",
-    "02. areas/육아/부모/아빠란 무엇인가.md",
-    "02. areas/육아/부모/부모란 무엇인가.md",
-    "02. areas/인생_방향/인생_1막/무제.md",
-    "05. Zettelkasten/01. Fleeting Note(임시 노트)/시적 표현.md",
-    "01. projects/편지/아빠 편지.md",
-    "01. projects/편지/아들 편지.md",
-    "01. projects/패밀리카 선정/선정 기준에 맞는 차량.md",
-    "01. projects/패밀리카 선정/선정 조건, 기준.md",
-    "문현 밥집 리스트.md",
-    "02. areas/육아/자녀/미디어 노출.md",
     "02. areas/인생_방향/인생_2막/무제.canvas",
-    "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정.canvas",
     "무제.canvas",
     "00. inbox/김경우의 국힘 지지 마인드 맵.canvas",
     "Resources/무제.canvas"

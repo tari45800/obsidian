@@ -1,6 +1,102 @@
 {
   "recentFiles": [
     {
+      "basename": "영구",
+      "path": "05. Zettelkasten/03. Permanent Note(영구 노트)/영구.md"
+    },
+    {
+      "basename": "문헌",
+      "path": "05. Zettelkasten/02. Literature Note(문헌 노트)/문헌.md"
+    },
+    {
+      "basename": "아빠 편지",
+      "path": "01. projects/편지/아빠 편지.md"
+    },
+    {
+      "basename": "선정 기준에 맞는 차량",
+      "path": "01. projects/패밀리카 선정/선정 기준에 맞는 차량.md"
+    },
+    {
+      "basename": "선정 조건, 기준",
+      "path": "01. projects/패밀리카 선정/선정 조건, 기준.md"
+    },
+    {
+      "basename": "2025-06-05",
+      "path": "02. areas/todo_list/daily/2025-06-05.md"
+    },
+    {
+      "basename": "2025-06-04",
+      "path": "02. areas/todo_list/daily/2025-06-04.md"
+    },
+    {
+      "basename": "언젠가 할 일",
+      "path": "02. areas/todo_list/someday/언젠가 할 일.md"
+    },
+    {
+      "basename": "인생의 방향 적립 과정 1",
+      "path": "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정 1.canvas"
+    },
+    {
+      "basename": "인생의 방향 적립 과정",
+      "path": "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정.canvas"
+    },
+    {
+      "basename": "아빠란 무엇인가",
+      "path": "02. areas/육아/부모/아빠란 무엇인가.md"
+    },
+    {
+      "basename": "writing",
+      "path": "03. Resources/template/writing.md"
+    },
+    {
+      "basename": "2025-05-30",
+      "path": "02. areas/todo_list/daily/2025-05-30.md"
+    },
+    {
+      "basename": "카시트, 유모차",
+      "path": "02. areas/육아/육아 용품/카시트, 유모차.md"
+    },
+    {
+      "basename": "운동 목표(2025)",
+      "path": "02. areas/운동/운동 목표(2025).md"
+    },
+    {
+      "basename": "이름",
+      "path": "04. Archives/이름/이름.md"
+    },
+    {
+      "basename": "특약",
+      "path": "04. Archives/이사/특약.md"
+    },
+    {
+      "basename": "입주 청소",
+      "path": "04. Archives/이사/입주 청소.md"
+    },
+    {
+      "basename": "숫자 기억법",
+      "path": "01. projects/기억법/숫자 기억법.md"
+    },
+    {
+      "basename": "니로",
+      "path": "01. projects/패밀리카 선정/니로.md"
+    },
+    {
+      "basename": "2025 이사, 출산 가계부(4,5,6월)",
+      "path": "02. areas/돈/돈 관리/특수 지출,수입 내역 정리/2025 이사, 출산 가계부(4,5,6월).md"
+    },
+    {
+      "basename": "현재 가입 태아보험",
+      "path": "02. areas/돈/보험/현재 가입 태아보험/현재 가입 태아보험.md"
+    },
+    {
+      "basename": "태아보험 설계",
+      "path": "02. areas/돈/보험/현재 가입 태아보험/태아보험 설계.md"
+    },
+    {
+      "basename": "태아보험이란",
+      "path": "02. areas/돈/보험/현재 가입 태아보험/태아보험이란.md"
+    },
+    {
       "basename": "영화 쿠폰",
       "path": "02. areas/돈/상품권/영화 쿠폰.md"
     },
@@ -33,36 +129,8 @@
       "path": "99. Atachment/10월.png"
     },
     {
-      "basename": "writing",
-      "path": "03. Resources/template/writing.md"
-    },
-    {
       "basename": "식세기 이전",
       "path": "04. Archives/이사/식세기 이전.md"
-    },
-    {
-      "basename": "입주 청소",
-      "path": "04. Archives/이사/입주 청소.md"
-    },
-    {
-      "basename": "2025-06-05",
-      "path": "02. areas/todo_list/daily/2025-06-05.md"
-    },
-    {
-      "basename": "2025-06-04",
-      "path": "02. areas/todo_list/daily/2025-06-04.md"
-    },
-    {
-      "basename": "언젠가 할 일",
-      "path": "02. areas/todo_list/someday/언젠가 할 일.md"
-    },
-    {
-      "basename": "인생의 방향 적립 과정 1",
-      "path": "02. areas/인생_방향/인생_2막/인생의 방향 적립 과정 1.canvas"
-    },
-    {
-      "basename": "아빠란 무엇인가",
-      "path": "02. areas/육아/부모/아빠란 무엇인가.md"
     },
     {
       "basename": "부모란 무엇인가",
@@ -77,20 +145,8 @@
       "path": "05. Zettelkasten/01. Fleeting Note(임시 노트)/시적 표현.md"
     },
     {
-      "basename": "아빠 편지",
-      "path": "01. projects/편지/아빠 편지.md"
-    },
-    {
       "basename": "아들 편지",
       "path": "01. projects/편지/아들 편지.md"
-    },
-    {
-      "basename": "선정 기준에 맞는 차량",
-      "path": "01. projects/패밀리카 선정/선정 기준에 맞는 차량.md"
-    },
-    {
-      "basename": "선정 조건, 기준",
-      "path": "01. projects/패밀리카 선정/선정 조건, 기준.md"
     },
     {
       "basename": "미디어 노출",
@@ -99,10 +155,6 @@
     {
       "basename": "2025-06-02",
       "path": "02. areas/todo_list/daily/2025-06-02.md"
-    },
-    {
-      "basename": "2025-05-30",
-      "path": "02. areas/todo_list/daily/2025-05-30.md"
     }
   ],
   "omittedPaths": [],
